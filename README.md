@@ -44,7 +44,7 @@ Here are some ideas to get you started:
       <details open><summary>Recently used (analyze recent activity events)</summary><img src="https://github.com/iamishtiaq98/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
       <details><summary>Default algorithm</summary><img src="https://github.com/iamishtiaq98/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
       <details><summary>Default algorithm (with details)</summary><img src="https://github.com/iamishtiaq98/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
+     <img src="https://github-readme-stats.vercel.app/api?username=iamishtiaq98&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="900" height="1" alt="">
     </td>
   </tr>
 </table>
