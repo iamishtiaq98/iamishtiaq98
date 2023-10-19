@@ -6,7 +6,18 @@ Visit us here [CodeWithIshtiaq](https://codewithishtiaq.vercel.app/).
 
 ## About Me
 
-I'm Muhammad Ishtiaq Amjad, a full-stack developer deeply devoted to constructing effective and user-centric web solutions. Proficient in both front-end and back-end technologies, I provide all-encompassing web services aimed at transforming your digital vision into reality. Here are the compelling reasons to collaborate with me:
+I'm Muhammad Ishtiaq Amjad, a full-stack developer deeply devoted to constructing effective and user-centric web solutions. Proficient in both front-end and back-end technologies, I provide all-encompassing web services aimed at transforming your digital vision into reality. 
+
+### Here are the compelling reasons to collaborate with me
+
+- ✔✨ Discover
+- ✔✨ Creative Web Design
+- ✔✨ Mobile Responsive
+- ✔✨ Develop
+- ✔✨ User-Centric Approach
+- ✔✨ Deploy
+- ✔✨ Timely Delivery
+- ✔✨ Ongoing Support
 
 - [x] 🌍 Location: Room No. 204, 2nd Floor, Tufail Boys Hostel, Ichhara, Lahore (54000)
 - [x] 💼 Current Job: PHP-Developer / [ExploreLogicsIT](https://explorelogics.com)
@@ -81,8 +92,11 @@ I'm here for you! Feel free to connect with me for any questions or concerns.
     _ ✉ [info@CodeWithIshtiaq.com](mailto:info@CodeWithIshtiaq.com)
 
 **Call:**
-    - 📞 Phone [+923177530163](tel:+923177530163)
-    - 📞 Phone [+923427397100](tel:+923427397100)
+
+- 📞 Phone [+923177530163](tel:+923177530163)
+
+- 📞 Phone [+923427397100](tel:+923427397100)
 
 **WhatsApp:**
-    _ [WhatsAppMe](https://wa.me/+92317773016?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20your%20services.)
+
+_  [WhatsAppMe](https://wa.me/+92317773016?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20your%20services.)
