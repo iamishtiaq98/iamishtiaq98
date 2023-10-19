@@ -1,8 +1,8 @@
-# CodeWithIshtiaq
+# CodeWithIshtiaq.
 
-![CodeWithIshtiaq Logo](https://codewithishtiaq.vercel.app/assets/img/logo1.png)
+![CodeWithIshtiaq. Logo](https://codewithishtiaq.vercel.app/assets/img/logo1.png)
 
-Visit us here [CodeWithIshtiaq](https://codewithishtiaq.vercel.app/).
+Visit us here [CodeWithIshtiaq.](https://codewithishtiaq.vercel.app/).
 
 ## About Me
 
