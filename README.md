@@ -9,7 +9,7 @@ Visit us here [CodeWithIshtiaq](https://codewithishtiaq.vercel.app/).
 I'm Muhammad Ishtiaq Amjad, a full-stack developer deeply devoted to constructing effective and user-centric web solutions. Proficient in both front-end and back-end technologies, I provide all-encompassing web services aimed at transforming your digital vision into reality. Here are the compelling reasons to collaborate with me:
 
 - 🌍 Location: [Your Location]
-- 💼 Current Job: [PHP-Developer/ExploreLogicsIT]
+- 💼 Current Job: [PHP-Developer/ExploreLogicsIT](https://explorelogics.com/)
 - 🎓 Education: [MasterOfComputerScience]
 - 👯 I'm looking to collaborate on: []
 
