@@ -11,7 +11,15 @@ I'm Muhammad Ishtiaq Amjad, a full-stack developer deeply devoted to constructin
 - 🌍 Location: [Your Location]
 - 💼 Current Job: [PHP-Developer/ExploreLogicsIT](https://explorelogics.com/)
 - 🎓 Education: [Master Of Computer Science]
-- 👯 I'm looking to collaborate on: []
+
+### I'm looking to collaborate on
+
+- [1] Open Source Contributions
+- [2] Web Development, Community and Social Impact
+- [3] AI Chatbots and Natural Language Processing
+- [4] UI/UX Design
+- [5] E-commerce and Marketplaces
+- [6] Education and Learning Tools
 
 ## My Process
 
