@@ -75,19 +75,14 @@ I work dedicatedly to craft top-quality products backed by futuristic technologi
 I'm here for you! Feel free to connect with me for any questions or concerns.
 
 **Location:**
-
-_ Room No. 204, 2nd Floor, Tufail Boys Hostel, Ichhara, Lahore (54000)
+    _ 🏦 Room No. 204, 2nd Floor, Tufail Boys Hostel, Ichhara, Lahore (54000)
 
 **Email:**
-
-_ [info@CodeWithIshtiaq.com](mailto:info@CodeWithIshtiaq.com)
+    _ ✉ [info@CodeWithIshtiaq.com](mailto:info@CodeWithIshtiaq.com)
 
 **Call:**
-
-- Phone [+923177530163](tel:+923177530163)
-
-- Phone [+923427397100](tel:+923427397100)
+    - 📞 Phone [+923177530163](tel:+923177530163)
+    - 📞 Phone [+923427397100](tel:+923427397100)
 
 **WhatsApp:**
-
-_ [WhatsAppMe](https://wa.me/+92317773016?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20your%20services.)
+    _ [WhatsAppMe](https://wa.me/+92317773016?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20your%20services.)
