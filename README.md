@@ -10,7 +10,7 @@ I'm Muhammad Ishtiaq Amjad, a full-stack developer deeply devoted to constructin
 
 - 🌍 Location: [Your Location]
 - 💼 Current Job: [PHP-Developer/ExploreLogicsIT](https://explorelogics.com/)
-- 🎓 Education: [MasterOfComputerScience]
+- 🎓 Education: [Master Of Computer Science]
 - 👯 I'm looking to collaborate on: []
 
 ## My Process
