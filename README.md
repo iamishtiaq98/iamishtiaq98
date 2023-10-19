@@ -14,34 +14,34 @@ I'm Muhammad Ishtiaq Amjad, a full-stack developer deeply devoted to constructin
 
 ### I'm looking to collaborate on
 
-[1] Open Source Contributions
-[2] Web Development, Community and Social Impact
-[3] AI Chatbots and Natural Language Processing
-[4] UI/UX Design
-[5] E-commerce and Marketplaces
-[6] Education and Learning Tools
+- [1] Open Source Contributions
+- [2] Web Development, Community and Social Impact
+- [3] AI Chatbots and Natural Language Processing
+- [4] UI/UX Design
+- [5] E-commerce and Marketplaces
+- [6] Education and Learning Tools
 
 ## My Process
 
 I adhere to a structured process to ensure the success of your project. Here's an overview of my approach:
 
- [x] Discovery
- [x] Planning
- [x] Design
- [x] Development
- [x] Testing & Refinement
- [x] Launch & Support
+- [x] Discovery
+- [x] Planning
+- [x] Design
+- [x] Development
+- [x] Testing & Refinement
+- [x] Launch & Support
 
 ## My Services
 
 I offer an array of services aimed to achieve your business objectives and create the roadmap to success:
 
- [x] Website Design
- [x] Website Development
- [x] Website Maintenance
- [x] Website Customization
- [x] Server Management
- [x] Technical Support
+- [x] Website Design
+- [x] Website Development
+- [x] Website Maintenance
+- [x] Website Customization
+- [x] Server Management
+- [x] Technical Support
 
 ## My Projects
 
@@ -84,9 +84,10 @@ _ [info@CodeWithIshtiaq.com](mailto:info@CodeWithIshtiaq.com)
 
 **Call:**
 
-_ [Phone:](tel:+923177530163)
-_ [Phone:](tel:+923427397100)
+-[] [Phone:1](tel:+923177530163)
+
+- [Phone:2](tel:+923427397100)
 
 **WhatsApp:**
 
-_ [+92317773016](https://wa.me/+92317773016?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20your%20services.)
+_ [WhatsAppMe](https://wa.me/+92317773016?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20your%20services.)
