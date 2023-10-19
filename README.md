@@ -84,9 +84,9 @@ _ [info@CodeWithIshtiaq.com](mailto:info@CodeWithIshtiaq.com)
 
 **Call:**
 
--[] [Phone:1](tel:+923177530163)
+-[] [Phone](tel:+92 317 7530163)
 
-- [Phone:2](tel:+923427397100)
+- [Phone](tel:+92 342 7397100)
 
 **WhatsApp:**
 
