@@ -19,6 +19,8 @@ I'm Muhammad Ishtiaq Amjad, a full-stack developer deeply devoted to constructin
 - ✔✨ Timely Delivery
 - ✔✨ Ongoing Support
 
+## Other Informition
+
 - [x] 🌍 Location: Room No. 204, 2nd Floor, Tufail Boys Hostel, Ichhara, Lahore (54000)
 - [x] 💼 Current Job: PHP-Developer / [ExploreLogicsIT](https://explorelogics.com)
 - [x] 🎓 Education: Master Of Computer Science
