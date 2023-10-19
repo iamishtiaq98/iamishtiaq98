@@ -8,9 +8,9 @@ Visit us here [CodeWithIshtiaq](https://codewithishtiaq.vercel.app/).
 
 I'm Muhammad Ishtiaq Amjad, a full-stack developer deeply devoted to constructing effective and user-centric web solutions. Proficient in both front-end and back-end technologies, I provide all-encompassing web services aimed at transforming your digital vision into reality. Here are the compelling reasons to collaborate with me:
 
- 🌍 Location: Room No. 204, 2nd Floor, Tufail Boys Hostel, Ichhara, Lahore (54000)
- 💼 Current Job: [PHP-Developer/ExploreLogicsIT]
- 🎓 Education: [MasterOfComputerScience]
+- [x] 🌍 Location: Room No. 204, 2nd Floor, Tufail Boys Hostel, Ichhara, Lahore (54000)
+- [x] 💼 Current Job: [PHP-Developer/ExploreLogicsIT]
+- [x] 🎓 Education: [MasterOfComputerScience]
 
 ### I'm looking to collaborate on
 
