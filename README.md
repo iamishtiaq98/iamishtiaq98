@@ -1,51 +1,84 @@
-### Hi there 👋
+# CodeWithIshtiaq
 
-<!--
-**iamishtiaq98/iamishtiaq98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![CodeWithIshtiaq Logo](https://codewithishtiaq.vercel.app/assets/img/logo1.png)
 
-Here are some ideas to get you started:
+Visit us here [CodeWithIshtiaq](https://codewithishtiaq.vercel.app/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
 
-<!--header-->
-<table>
-  <tr><td colspan="2"><a href="/README.md#-plugins">← Back to plugins index</a></td></tr>
-  <tr><th colspan="2"><h3>🈷️ Languages activity</h3></th></tr>
-  
-  
-  <tr>
-    <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
-    <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a> <a href="/source/templates/repository/README.md"><code>📘 Repository template</code></a> <a href="/source/templates/terminal/README.md"><code>📙 Terminal template</code></a></td>
-  </tr>
+I'm Muhammad Ishtiaq Amjad, a full-stack developer deeply devoted to constructing effective and user-centric web solutions. Proficient in both front-end and back-end technologies, I provide all-encompassing web services aimed at transforming your digital vision into reality. Here are the compelling reasons to collaborate with me:
 
-  <tr>
-    <td><code>👤 Users</code> <code>👥 Organizations</code> <code>📓 Repositories</code></td>
-  </tr>
-  <tr>
-    <td>
-      <code>🔑 (scopeless)</code> 
-      <code>read:org (optional)</code>
-      <code>read:user (optional)</code> 
-      <code>read:packages (optional)</code> 
-      <code>repo (optional)</code></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>Indepth analysis (clone and analyze repositories)</summary>
-        <img src="https://github.com/iamishtiaq98/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-      <details open><summary>Recently used (analyze recent activity events)</summary><img src="https://github.com/iamishtiaq98/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
-      <details><summary>Default algorithm</summary><img src="https://github.com/iamishtiaq98/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
-      <details><summary>Default algorithm (with details)</summary><img src="https://github.com/iamishtiaq98/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
-     <img src="https://github-readme-stats.vercel.app/api?username=iamishtiaq98&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="900" height="1" alt="">
-    </td>
-  </tr>
-</table>
-<!--/header-->
+- 🌍 Location: [Your Location]
+- 💼 Current Job: [PHP-Developer/ExploreLogicsIT]
+- 🎓 Education: [MasterOfComputerScience]
+- 👯 I'm looking to collaborate on: []
+
+## My Process
+
+I adhere to a structured process to ensure the success of your project. Here's an overview of my approach:
+
+- [x] Discovery
+- [x] Planning
+- [x] Design
+- [x] Development
+- [x] Testing & Refinement
+- [x] Launch & Support
+
+## My Services
+
+I offer an array of services aimed to achieve your business objectives and create the roadmap to success:
+
+- [x] Website Design
+- [x] Website Development
+- [x] Website Maintenance
+- [x] Website Customization
+- [x] Server Management
+- [x] Technical Support
+
+## My Projects
+
+### Successfully Completed Works
+
+I work dedicatedly to craft top-quality products backed by futuristic technologies to make your business successful in the digital world.
+
+| SR# | Language | Type | LiveUrl |
+| --- | -------- | ---- | ------- |
+| 1   | React    | LandingPage | [Link](https://techno-solutions.vercel.app) |
+| 2   | React    | LandingPage | [Link](https://e-state-ishicoder.vercel.app) |
+| 3   | React    | LandingPage | [Link](https://wis-walk.vercel.app) |
+| 4   | Next     | LandingPage | [Link](https://logic-zone.vercel.app) |
+| 5   | Next     | VideoDownl  | [Link](https://ishi-dev-yt-downloader.vercel.app) |
+| 6   | React    | OCRWork     | [Link](https://appocr.vercel.app) |
+| 7   | React    | estate     | [Link](https://explorelogicsit.com/realestate1) |
+| 8   | React    | estate2    | [Link](https://explorelogicsit.com/realestate2) |
+| 9   | Laravel  | DatingApp  | [Link](https://explorelogicsit.com/sharing_sugar) |
+| 10  | Ci      | Lillibros  | [Link](https://explorelogicsit.com/lillibros) |
+| 11  | PHP     | ExportExcelFile |
+| 12  | PHP     | DataExportInCSV-XLS-Text |
+| 13  | PHP     | CommentSystem |
+| 14  | PHP     | EmailSubscriptionInPhp |
+| 15  | PHP     | MultiStepForm |
+| 16  | PHP     | PhpStarRatingSystem |
+| 17  | PHP     | Php-Email-WithAttachment |
+| 18  | Laravel | ecommerce |
+
+## Get in Touch
+
+I'm here for you! Feel free to connect with me for any questions or concerns.
+
+**Location:**
+
+- Room No. 204, 2nd Floor, Tufail Boys Hostel, Ichhara, Lahore (54000)
+
+**Email:**
+
+- [info@CodeWithIshtiaq.com](mailto:info@CodeWithIshtiaq.com)
+
+**Call:**
+
+- Phone: +92 317 7530163
+- Phone: +92 342 7397100
+
+**WhatsApp:**
+
+- +92 317 773016
