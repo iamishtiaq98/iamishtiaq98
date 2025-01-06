@@ -1,6 +1,4 @@
-# CodeWithIshtiaq.  ![CodeWithIshtiaq. Logo](https://codewithishtiaq.vercel.app/assets/img/logo1.png){width=200px height=100px}
-
-![CodeWithIshtiaq. Logo](https://codewithishtiaq.vercel.app/assets/img/logo1.png)
+# CodeWithIshtiaq. ![CodeWithIshtiaq. Logo](https://codewithishtiaq.vercel.app/assets/img/logo1.png){width=200px height=100px}
 
 > **Your Gateway to Modern Web Solutions**
 
@@ -111,7 +109,7 @@ I'm here to assist you! Feel free to reach out with any questions or inquiries.
 - ☎ [+923427397100](tel:+923427397100)
 
 ### 💬 **WhatsApp:**
-- 🌐 [WhatsApp Me](https://wa.me/+923177530163?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20your%20services.)
+- 🌐 [WhatsApp Me](https://wa.me/+92317773016?text=Hello%2C%20I%20would%20like%20to%20inquire%20about%20your%20services.)
 
 ---
 
