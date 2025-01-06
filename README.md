@@ -1,4 +1,4 @@
-# CodeWithIshtiaq. <img src="https://codewithishtiaq.vercel.app/assets/img/logo1.png" alt="CodeWithIshtiaq. Logo" width="100" height="50">
+ <img src="https://codewithishtiaq.vercel.app/assets/img/logo1.png" alt="CodeWithIshtiaq. Logo" width="100" height="50">  # CodeWithIshtiaq.
 
 > **Your Gateway to Modern Web Solutions**
 
