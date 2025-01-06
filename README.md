@@ -1,4 +1,5 @@
-# CodeWithIshtiaq. ![CodeWithIshtiaq. Logo](https://codewithishtiaq.vercel.app/assets/img/logo1.png){width=200px height=100px}
+# CodeWithIshtiaq. 
+<img src="https://codewithishtiaq.vercel.app/assets/img/logo1.png" alt="CodeWithIshtiaq. Logo" width="200" height="100">
 
 > **Your Gateway to Modern Web Solutions**
 
