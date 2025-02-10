@@ -1,7 +1,7 @@
 # CodeWithIshtiaq. 
 > **Your Gateway to Modern Web Solutions**
 
-Visit us here [CodeWithIshtiaq.](https://codewithishtiaq.vercel.app/).
+<a href="https://wa.me/1234567890?text=Hello%20Ishtiaq,%20I%20would%20like%20to%20connect%20with%20you." target="_blank">WhatsApp us here</a>
 
 ---
 
