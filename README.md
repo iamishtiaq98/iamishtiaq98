@@ -1,7 +1,7 @@
 # CodeWithIshtiaq. 
 > **Your Gateway to Modern Web Solutions**
 
-<a href="https://wa.me/1234567890?text=Hello%20Ishtiaq,%20I%20would%20like%20to%20connect%20with%20you." target="_blank">WhatsApp us here</a>
+<a href="https://wa.me/+923177530163?text=Hello%20Ishtiaq,%20I%20would%20like%20to%20connect%20with%20you." target="_blank">WhatsApp me here</a>
 
 ---
 
