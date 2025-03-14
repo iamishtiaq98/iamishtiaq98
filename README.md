@@ -66,33 +66,6 @@ I follow a structured approach to ensure your project's success:
 
 ---
 
-## 💼 My Projects
-
-### 🚀 Successfully Delivered Solutions:
-
-| **SR#** | **Language** | **Type**            | **Live URL**                           |
-|---------|--------------|---------------------|----------------------------------------|
-| 1       | React        | Landing Page        | [Link](https://techno-solutions.vercel.app) |
-| 2       | React        | Landing Page        | [Link](https://e-state-ishicoder.vercel.app) |
-| 3       | React        | Landing Page        | [Link](https://wis-walk.vercel.app)         |
-| 4       | Next         | Landing Page        | [Link](https://logic-zone.vercel.app)      |
-| 5       | Next         | Video Downloader    | [Link](https://ishi-dev-yt-downloader.vercel.app) |
-| 6       | React        | OCR Work            | [Link](https://appocr.vercel.app)          |
-| 7       | React        | Real Estate         | [Link](https://explorelogicsit.com/realestate1) |
-| 8       | React        | Real Estate 2       | [Link](https://explorelogicsit.com/realestate2) |
-| 9       | Laravel      | Dating App          | [Link](https://explorelogicsit.com/sharing_sugar) |
-| 10      | CI           | Lillibros           | [Link](https://explorelogicsit.com/lillibros) |
-| 11      | PHP          | Export Excel File   |                                          |
-| 12      | PHP          | Data Export         |                                          |
-| 13      | PHP          | Comment System      |                                          |
-| 14      | PHP          | Email Subscription  |                                          |
-| 15      | PHP          | Multi-Step Form     |                                          |
-| 16      | PHP          | Star Rating System  |                                          |
-| 17      | PHP          | Email with Attachments |                                       |
-| 18      | Laravel      | E-commerce          |                                          |
-
----
-
 ## 📬 Get in Touch
 
 I'm here to assist you! Feel free to reach out with any questions or inquiries.
